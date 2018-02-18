@@ -82,7 +82,7 @@
 /* #undef HAVE_LIBSOCKET */
 
 /* The libunwind library is to be used */
-#define HAVE_LIBUNWIND 1
+//#define HAVE_LIBUNWIND 1
 
 /* Define to 1 if you have the `ws2_32' library (-lws2_32). */
 /* #undef HAVE_LIBWS2_32 */
